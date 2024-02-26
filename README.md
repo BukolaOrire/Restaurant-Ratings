@@ -1,4 +1,14 @@
-# Mexican Restaurant Ratings
+# Mexican Restaurant Ratings Analysis
+
+### Table of Contents
+- [Overview](#overview)
+- [Data Source](#data-source)
+- [Tools](#tools)
+- [Data Cleaning](#data-cleaning)
+- [Problem Statement](#problem-statement)
+- [Data Modelling](#data-modelling)
+- [Findings/Recommendation](#findings-recommendation)
+
 
 # Overview
 This ia a data analysis project on restaurants based in mexico. A customer survey was carried out in this city in 2012 to collate information about each restaurant, their cuisines, information about their consumers and the preferences of the consumers.There are other additional information you will find in this dataset when exploring it.
@@ -8,7 +18,7 @@ This ia a data analysis project on restaurants based in mexico. A customer surve
 
 ## Tools
 -  Power Query for Data Cleaning
--  SQL Server for Exploratory Data Analysis
+-  SQL Server for Exploratory Data Analysis and Data Modelling
 -  Power BI for Data Visualization and Reports
 
  ## Data Cleaning
@@ -200,4 +210,8 @@ ORDER BY Avg_overall_rating ASC
         ,Avg_service_rating ASC
 ```
 
-		
+## Findings and Recomendation	
+
+
+
+
