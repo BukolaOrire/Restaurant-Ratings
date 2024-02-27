@@ -37,6 +37,11 @@ ratings?
   
 - If you were to invest in a restaurant, which characteristics would you be looking for?
 
+
+![restaurant rating dashboard ](https://github.com/BukolaOrire/Restaurant_Ratings/assets/161165047/f649c57a-9035-49b1-9555-2022473687e3)
+
+
+
 ## Data Modelling
 ```sql
 SELECT * FROM Consumer_preferences
