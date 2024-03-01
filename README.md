@@ -1,4 +1,4 @@
-# Mexican Restaurant Ratings Analysis
+# Mexico Restaurants Rating Analysis
 
 ### Table of Contents
 - [Overview](#overview)
@@ -7,14 +7,16 @@
 - [Data Cleaning](#data-cleaning)
 - [Problem Statement](#problem-statement)
 - [Data Modelling](#data-modelling)
-- [Findings/Recommendation](#findings-recommendation)
+- [Findings/Conclusion](#findings-conclusion)
 
 
 # Overview
 This ia a data analysis project on restaurants based in mexico. A customer survey was carried out in this city in 2012 to collate information about each restaurant, their cuisines, information about their consumers and the preferences of the consumers.There are other additional information you will find in this dataset when exploring it.
 
 ## Data Source
-"Restaurant rating.csv file format [download here](https://drive.google.com/file/d/1c1HKM8UTqwWOgexRLOtEJuxjBiA2N6xf/view?usp=drive_link)
+"Restaurant rating.csv file format [download here](https://drive.google.com/file/d/1c1HKM8UTqwWOgexRLOtEJuxjBiA2N6xf/view?usp=drive_link) This Dataset was provided by Digitaleydrive as part of my capstone project.
+This Dataset consists of  5 tables 
+
 
 ## Tools
 -  Power Query for Data Cleaning
@@ -38,8 +40,7 @@ ratings?
 - If you were to invest in a restaurant, which characteristics would you be looking for?
 
 
-![restaurant rating dashboard ](https://github.com/BukolaOrire/Restaurant_Ratings/assets/161165047/f649c57a-9035-49b1-9555-2022473687e3)
-
+![Mexico restaurant dashboard ](https://github.com/BukolaOrire/Restaurant_Ratings/assets/161165047/ee931ca2-2bfb-40ec-84fc-5bd39abf1281)
 
 
 ## Data Modelling
@@ -215,7 +216,28 @@ ORDER BY Avg_overall_rating ASC
         ,Avg_service_rating ASC
 ```
 
-## Findings and Recomendation	
+## Findings and Conclusion
+1 After carefully analyzing Consumer demographics and Restaurants demographics, the results indicated that there is an unstable demand and supply equilibrium between the top consumer 
+  preferred cuisine and restaurant cuisine. At most, 97 consumers out of 138 total consumers prefer Mexican cuisine compared to other cuisine, yet only few restaurants are offering 
+  Mexican cuisine. There are 78 other cuisine consumers prefer but no restaurant is offering those services. Restaurants must include food diversity and expand their menu to include 
+  additional cuisine that would fix the demand and supply gap which will help  improve consumer satisfaction and maximize profit. The results also suggest that consumers aged 18 to 30 
+   had the highest level of patronage.
+
+2 The top three  highest rated restaurants offered at least 75% of  the services consumers are interested in, and there are little to no constraints in restaurant demographics when 
+  compared to consumer demographics. There is still  need for improvement on services rendered by these restaurants.
+
+3 Potential investors looking to invest in the  restaurant business must conducted proper research and analysis on major factors such as location of the Restaurant, Competition, Rate of 
+  return , Return on Investment , Capability, Type of Menu etc. In this Scenario, San Luis Potosi is the top best restaurant location for possible investment.
+
+
+
+
+
+
+
+
+
+
 
 
 
