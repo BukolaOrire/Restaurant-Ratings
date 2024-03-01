@@ -6,7 +6,7 @@
 ### Table of Contents
 - [Overview](#overview)
 - [Data Source](#data-source)
-- [Tools](#tools)
+- [Skills](#skills)
 - [Data Cleaning](#data-cleaning)
 - [Problem Statement](#problem-statement)
 - [Data Modelling](#data-modelling)
@@ -15,13 +15,13 @@
 
 # Overview
 This is a data analysis project on restaurants based in mexico. A customer survey was carried out in this city in 2012 to collate information about each restaurant, their cuisines, information about their consumers and the preferences of the consumers.There are other additional information you will find in this dataset when exploring it.
+**_Disclaimer_**: _All datasets and reportd do not represent any company, institution or country, but just a dummy dataset to demonstrate capabilities of Sql._**
 
 ## Data Source
 "Restaurant rating.csv file format [download here](https://drive.google.com/file/d/1c1HKM8UTqwWOgexRLOtEJuxjBiA2N6xf/view?usp=drive_link) This Dataset was provided by Digitaleydrive as part of my capstone project.
 This Dataset consists of  5 tables 
 
-
-## Tools
+## Skills
 -  Power Query for Data Cleaning
 -  SQL Server for Exploratory Data Analysis and Data Modelling
 -  Power BI for Data Visualization and Reports
@@ -33,14 +33,11 @@ This Dataset consists of  5 tables
  - Data Formating
 
 ## Problem Statement
-- What can you learn from the highest rated restaurants? Do consumer preferences have an effect on
+1. What can you learn from the highest rated restaurants? Do consumer preferences have an effect on
 ratings?
-
-- What are the consumer demographics? Does this indicate a bias in the data sample?
-
-- Are there any demand & supply gaps that you can exploit in the market?
-  
-- If you were to invest in a restaurant, which characteristics would you be looking for?
+2. What are the consumer demographics? Does this indicate a bias in the data sample?
+3. Are there any demand & supply gaps that you can exploit in the market?
+4. If you were to invest in a restaurant, which characteristics would you be looking for?
 
 
 ![mexico restaurant dashboard](https://github.com/BukolaOrire/Restaurant_Ratings/assets/161165047/ebb292db-43a3-4306-9adf-86e649ec59c9)
