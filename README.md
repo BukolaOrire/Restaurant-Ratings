@@ -1,6 +1,6 @@
 # Mexico Restaurants Rating Analysis
-![](![restaurant image](https://github.com/BukolaOrire/Restaurant_Ratings/assets/161165047/40e32428-5651-448f-8db4-f3ba85ec43b1)
-)
+(![restaurant image](https://github.com/BukolaOrire/Restaurant_Ratings/assets/161165047/40e32428-5651-448f-8db4-f3ba85ec43b1)
+
 
 ### Table of Contents
 - [Overview](#overview)
