@@ -217,17 +217,18 @@ ORDER BY Avg_overall_rating ASC
 ```
 
 ## Findings and Conclusion
-1 After carefully analyzing Consumer demographics and Restaurants demographics, the results indicated that there is an unstable demand and supply equilibrium between the top consumer 
-  preferred cuisine and restaurant cuisine. At most, 97 consumers out of 138 total consumers prefer Mexican cuisine compared to other cuisine, yet only few restaurants are offering 
-  Mexican cuisine. There are 78 other cuisine consumers prefer but no restaurant is offering those services. Restaurants must include food diversity and expand their menu to include 
-  additional cuisine that would fix the demand and supply gap which will help  improve consumer satisfaction and maximize profit. The results also suggest that consumers aged 18 to 30 
-   had the highest level of patronage.
-
-2 The top three  highest rated restaurants offered at least 75% of  the services consumers are interested in, and there are little to no constraints in restaurant demographics when 
-  compared to consumer demographics. There is still  need for improvement on services rendered by these restaurants.
-
-3 Potential investors looking to invest in the  restaurant business must conducted proper research and analysis on major factors such as location of the Restaurant, Competition, Rate of 
-  return , Return on Investment , Capability, Type of Menu etc. In this Scenario, San Luis Potosi is the top best restaurant location for possible investment.
+- After carefully analyzing Consumer demographics and Restaurants demographics, the results indicated that there is an unstable deman 
+  and supply equilibrium between the top consumer preferred cuisine and restaurant cuisine. At most, 97 consumers out of 138 total 
+  consumers prefer Mexican cuisine compared to other cuisine, yet only few restaurants are offering mexicancuisine. There are 78 other 
+  cuisine consumers prefer but no restaurant is offering those services. Restaurants must include food diversity and expand their menu 
+  to include additional cuisine that would fix the demand and supply gap which will help  improve consumer satisfaction and maximize 
+  profit. The results also suggest that consumers aged 18 to 30 had the highest level of patronage.
+- The top three  highest rated restaurants offered at least 75% of  the services consumers are interested in, and there are little to no 
+  constraints in restaurant demographics when compared to consumer demographics. There is still  need for improvement on services 
+  rendered by these restaurants.
+- Potential investors looking to invest in the  restaurant business must conducted proper research and analysis on major factors such as 
+  location of the Restaurant, Competition, Rate of return , Return on Investment , Capability, Type of Menu etc. In this Scenario, San
+  Luis Potosi is the top best restaurant location for possible investment.
 
 
 
