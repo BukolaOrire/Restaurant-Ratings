@@ -1,4 +1,6 @@
 # Mexico Restaurants Rating Analysis
+![](![restaurant image](https://github.com/BukolaOrire/Restaurant_Ratings/assets/161165047/40e32428-5651-448f-8db4-f3ba85ec43b1)
+)
 
 ### Table of Contents
 - [Overview](#overview)
@@ -11,7 +13,7 @@
 
 
 # Overview
-This ia a data analysis project on restaurants based in mexico. A customer survey was carried out in this city in 2012 to collate information about each restaurant, their cuisines, information about their consumers and the preferences of the consumers.There are other additional information you will find in this dataset when exploring it.
+This is a data analysis project on restaurants based in mexico. A customer survey was carried out in this city in 2012 to collate information about each restaurant, their cuisines, information about their consumers and the preferences of the consumers.There are other additional information you will find in this dataset when exploring it.
 
 ## Data Source
 "Restaurant rating.csv file format [download here](https://drive.google.com/file/d/1c1HKM8UTqwWOgexRLOtEJuxjBiA2N6xf/view?usp=drive_link) This Dataset was provided by Digitaleydrive as part of my capstone project.
