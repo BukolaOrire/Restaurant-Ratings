@@ -43,7 +43,7 @@ ratings?
 - If you were to invest in a restaurant, which characteristics would you be looking for?
 
 
-![Mexico restaurant dashboard ](https://github.com/BukolaOrire/Restaurant_Ratings/assets/161165047/ee931ca2-2bfb-40ec-84fc-5bd39abf1281)
+![mexico restaurant dashboard](https://github.com/BukolaOrire/Restaurant_Ratings/assets/161165047/ebb292db-43a3-4306-9adf-86e649ec59c9)
 
 
 ## Data Modelling
