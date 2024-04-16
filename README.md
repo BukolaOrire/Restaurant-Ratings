@@ -37,16 +37,15 @@ This Dataset consists of  5 tables
 
 
 ## Data Modelling
-Automatically derived relationships are adjusted to remove and replace unwanted relationships with the required.
+Automatically derived relationships are adjusted to repalce and add relationships with the required.
 
 Adjusted Model     |        Auto Model
 :-----------------:| :-------------------:
 ![Adjusted_model](https://github.com/BukolaOrire/Restaurant_Ratings/assets/161165047/8fced2bc-ca0e-42b9-a67d-621cc94ebe23)  |   ![auto_model](https://github.com/BukolaOrire/Restaurant_Ratings/assets/161165047/9385bad0-a449-4606-b47e-6c7aa6d6504b)
 
- |
 
 The model is a star schema.
-There are 7 dimension tables and 2 fact table.The dimension tables are allll joined to the fact table with many-to-one relationship.
+There are 7 dimension tables and 2 fact table.The dimension tables are all joined to the fact table with many-to-one relationship.
 
 ## Data Visualization
 The Report comprises of 3 pages outlined below:
@@ -61,8 +60,6 @@ The Report comprises of 3 pages outlined below:
 ![restaurant_rating_analysis](https://github.com/BukolaOrire/Restaurant_Ratings/assets/161165047/1b91e047-55f0-4f93-93a3-912fcf5b14d3)
 
 ![restaurant_rating_analysis2](https://github.com/BukolaOrire/Restaurant_Ratings/assets/161165047/48604dc6-7d7f-4ee5-a4cf-5c62884126ae)
-
-
 
 
 
