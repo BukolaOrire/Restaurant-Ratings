@@ -44,8 +44,8 @@ Adjusted Model     |        Auto Model
 ![Adjusted_model](https://github.com/BukolaOrire/Restaurant_Ratings/assets/161165047/8fced2bc-ca0e-42b9-a67d-621cc94ebe23)  |   ![auto_model](https://github.com/BukolaOrire/Restaurant_Ratings/assets/161165047/9385bad0-a449-4606-b47e-6c7aa6d6504b)
 
 
-The model is a star schema.
-There are 7 dimension tables and 2 fact table.The dimension tables are all joined to the fact table with many-to-one relationship.
+The model is a snowflake schema.
+There are 7 dimension tables and 1 fact table.The dimension tables are all joined to the fact table with many-to-one relationship.
 
 ## Data Visualization
 The Report comprises of 3 pages outlined below:
