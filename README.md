@@ -8,7 +8,7 @@
 - [Data Cleaning](#data-cleaning)
 - [Problem Statement](#problem-statement)
 - [Data Modelling](#data-modelling)
-- [Findings and Recommendation](#findings-and-recommendation)
+- [Conclusion](#conclusion)
 
 
 # Overview
@@ -63,7 +63,7 @@ The Report comprises of 3 pages outlined below:
 
 
 
-## Findings and Recommendation
+## Conclusion
 - The Analysis conducted  indicates  there is a gap between demand and supply by cuisine. At least 50% of Consumers prefer Mexican cuisine compared to other cuisines, but 
   not up to  40% of Restaurants  are offering Mexican cuisine. There are 78 other cuisines consumers prefer but no restaurant is offering these cuisines. Restaurants should 
   make provisions to include food diversity and expand their menu to include additional cuisines that may  help solve the demand and supply gap and improve consumer 
